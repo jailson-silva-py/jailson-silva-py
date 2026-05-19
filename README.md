@@ -1,6 +1,6 @@
 > Desenvolvedor Full Stack focado em criar produtos web modernos, escaláveis e com UX de verdade.
 
-Sou um programador autodidata apaixonado por arquitetura frontend, sistemas complexos e experiências bem construídas. Atualmente desenvolvendo projetos que vão além do CRUD tradicional, explorando drag-and-drop avançado, optimistic UI, sincronização client/server, cache management e aplicações inspiradas em ferramentas reais do mercado.
+Um Programador autodidata apaixonado por arquitetura frontend, sistemas complexos e experiências bem construídas. Atualmente desenvolvendo projetos que vão além do CRUD tradicional, explorando drag-and-drop avançado, optimistic UI, sincronização client/server, cache management e aplicações inspiradas em ferramentas reais do mercado. Já de olho em Indexed DB e OPFS.
 
 ## 🚀 Sobre mim
 
